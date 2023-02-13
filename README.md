@@ -1,1 +1,1 @@
-# Muti artificial intellegent agetn systems
+# Multi artificial intellegent agent systems
